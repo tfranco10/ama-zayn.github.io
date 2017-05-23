@@ -14,13 +14,13 @@
 
     .navbar-outside {
       display:block;
-      background-color: maroon;
+      background-color: #656565;
       height:80px;
     }
 
     .navbar {
       display:block;
-      background-color: maroon;
+      background-color: #656565;
       height:80px;
       margin:0 auto;
       min-width:700px;
@@ -37,15 +37,15 @@
 
     .navigation li a {
       text-decoration: none;
-      color:#FFFFFF;
+      color:black;
     }
 
     .navigation li:hover {
-      background-color: #008080;
+      background-color: #db7900;
     }
     
     .active {
-        background-color:#75A0CC;
+        background-color:#b86600;
         color: white;
     }
     /* END NAVBAR CSS */
@@ -55,7 +55,7 @@
       min-width:600px;
       max-width:800px;
       margin:0 auto;
-      background-color: maroon;
+      background-color:#656565;
       height:50px;
       clear:both;
     }
